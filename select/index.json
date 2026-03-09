@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "LIVE LIVE LIVE!",
+  "base_artist": "ストレイライト",
+  "createdAt": "2026-03-09T05:16:03.367172Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heat of the Night (from “Live! Live! Live!” 1988)",
+      "artist": "Bryan Adams",
+      "has_synced": false,
+      "path": "select/01_Heat_of_the_Night_(from_“Live!_Live!_Live!”_1988)_Bryan_Adams.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Best Was Yet to Come (from “Live! Live! Live!”",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/02_The_Best_Was_Yet_to_Come_(from_“Live!_Live!_Live!”_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "live live live",
+      "artist": "zenbukiminoseida.",
+      "has_synced": true,
+      "path": "select/03_live_live_live_zenbukiminoseida..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LIVE LIVE LIVE! (Off Vocal)",
+      "artist": "ストレイライト (田中有紀, 幸村恵理, 北原沙弥香)",
+      "has_synced": false,
+      "path": "select/04_LIVE_LIVE_LIVE!_(Off_Vocal)_ストレイライト_(田中有紀,_幸村恵理,_北原沙弥香).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LIVE LIVE LIVE!",
+      "artist": "ストレイライト",
+      "has_synced": false,
+      "path": "select/05_LIVE_LIVE_LIVE!_ストレイライト.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LIVE LIVE LIVE!",
+      "artist": "ストレイライト (田中有紀, 幸村恵理, 北原沙弥香)",
+      "has_synced": false,
+      "path": "select/06_LIVE_LIVE_LIVE!_ストレイライト_(田中有紀,_幸村恵理,_北原沙弥香).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heat of the Night (from “Live! Live! Live!” / 1988)",
+      "artist": "Bryan Adams",
+      "has_synced": false,
+      "path": "select/07_Heat_of_the_Night_(from_“Live!_Live!_Live!”___1988)_Bryan_Adams.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Heard It Through the Grapevine [Live] [Live]/Live",
+      "artist": "The Average White Band",
+      "has_synced": false,
+      "path": "select/08_I_Heard_It_Through_the_Grapevine_[Live]_[Live]_Live_The_Average_White_Band.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Criminal (Live) [Live]/Live",
+      "artist": "The Pretenders",
+      "has_synced": false,
+      "path": "select/09_Criminal_(Live)_[Live]_Live_The_Pretenders.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Live, Live, Live",
+      "artist": "Melon Diesel",
+      "has_synced": true,
+      "path": "select/10_Live,_Live,_Live_Melon_Diesel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LIVE LIVE LIVE!",
+      "artist": "ストレイライト",
+      "has_synced": false,
+      "path": "select/pl_01_LIVE_LIVE_LIVE!_ストレイライト.txt"
+    }
+  ]
+}
